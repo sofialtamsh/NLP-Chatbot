@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/87471617/140063943-754d35aa-e806-4234-
 - CUDA=11.2
 - CUDNN=11.4 (necessary only for gpu computing (optional))
 - Python 3.6 
-
+ 
 ## Dataset
 The Stanford Question Answering Dataset (SQuAD), which is derived from Wikipedia, can be used for question answering chatbot. The SQuAD includes:
 - 107,785 question-answer pairs depend on 536 articles.
