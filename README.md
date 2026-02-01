@@ -3,7 +3,7 @@
 https://user-images.githubusercontent.com/87471617/140063943-754d35aa-e806-4234-a5b4-108b2193d962.mp4
  
       
-    
+     
 ## Requirements
 - Tensorflow=2.4.0
 - CUDA=11.2
