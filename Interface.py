@@ -6,7 +6,7 @@ from tkinter.font import Font
 class Interface:
     def __init__(self, test):
         self.window = None
-
+ 
         self.window_height = 500
         self.window_width = 1000
         self.text_field_height = int(self.window_height / 20)
