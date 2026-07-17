@@ -2,7 +2,7 @@ import tkinter
 from tkinter import *
 from tkinter.font import Font
   
-
+ 
 class Interface:
     def __init__(self, test):
         self.window = None
