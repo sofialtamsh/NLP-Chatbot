@@ -6,7 +6,7 @@ import tensorflow as tf
 
 from datasets import load_dataset
 from keras import preprocessing, utils, layers, activations, models
-
+ 
 global num_input_tokens, num_output_tokens, encoder_input_data, decoder_input_data, decoder_target_data,\
     input_word_dict, max_input_seq_len, output_word_dict, max_output_len
 
